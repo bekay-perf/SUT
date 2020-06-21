@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>b02.com</groupId>
-	<artifactId>jcontroller</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>jroller-sut</artifactId>
+	<version>0.1</version>
 	<name>jroller-sut</name>
-	<description>SUT for jmeter dash board study  </description>
+	<description>SUT for jmeter dash board study</description>
 
 	<properties>
 		<java.version>11</java.version>
