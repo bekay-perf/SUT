@@ -12,7 +12,12 @@ JMeter Dashboard 검토시 사용할 테스트 대상 시스템 코드와 생성
 * 실행     
     <pre>
     <code>
-    java -jar jroller-sut-0.1.jar
+    java-jar jroller-sut-0.1.jar
+    
+    또는
+    
+    java -jar jcontroller-0.0.1-SNAPSHOT.jar
+
     </code>
     </pre>
     
