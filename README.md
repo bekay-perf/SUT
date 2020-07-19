@@ -31,6 +31,8 @@ JMeter Dashboard 검토시 사용할 테스트 대상 시스템 코드와 생성
      </pre>   
 * 참조
     * Building a RESTful Web Service - https://spring.io/guides/gs/rest-service/
+    * mvn 설치 방법 - https://www.unixmen.com/install-apache-ant-maven-tomcat-centos-76-5/
+
 
 <hr/>    
 
