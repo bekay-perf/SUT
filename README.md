@@ -5,7 +5,9 @@ JMeter Dashboard 검토시 사용할 테스트 대상 시스템 코드와 생성
 * jar 파일 생성
     <pre>
     <code>
-     mvnw clean package
+     . 윈도우에서 실행시 : mvnw clean package
+     . Linux(서버)에서 실행시 :  mvnw clean package
+       * System-Under-Test 경로에서 실행하면 되고, 파일 권한 'chmod 777 mvnw' 변경해서 실행
     </code>
     </pre>
     
@@ -16,7 +18,7 @@ JMeter Dashboard 검토시 사용할 테스트 대상 시스템 코드와 생성
     
     또는
     
-    java -jar jcontroller-0.0.1-SNAPSHOT.jar
+    java -jar ./jcontroller-0.0.1-SNAPSHOT.jar
 
     </code>
     </pre>
